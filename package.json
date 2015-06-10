@@ -1,0 +1,9 @@
+{
+  "name": "fs-watch-cli",
+  "version": "1.0.0",
+  "description": "CLI wrapper for fs.watch",
+  "main": "index.js",
+  "author": "Tiddo Langerak <tiddolangerak@gmail.com>",
+  "license": "MIT",
+  "bin" : { "fs-watch" : "./index.js" }
+}
